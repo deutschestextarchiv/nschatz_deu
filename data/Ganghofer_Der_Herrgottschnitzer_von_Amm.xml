@@ -2,7 +2,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main">Der Herrgottschnitzer von Amm</title>
+            <title type="main">Der Herrgottschnitzer von Ammergau</title>
             <author>
                <persName ref="http://d-nb.info/gnd/118537490"><surname>Ganghofer</surname><forename>Ludwig</forename></persName>
             </author>
@@ -58,17 +58,17 @@
                </address>
             </publisher>
             <pubPlace>Berlin</pubPlace>
-            <date type="publication">2023-09-13T14:13:00Z</date>
+            <date type="publication">2023-09-13T14:50:25Z</date>
             <availability><licence target="https://creativecommons.org/licenses/by-sa/4.0/"><p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p></licence></availability>
          </publicationStmt>
          <notesStmt>
             <note>Im Deutschen Textarchiv (DTA) wurde bereits die Vorgängersammlung „Der Deutsche Novellenschatz“ (24 Bände, 1871-1876) veröffentlicht. Cf. Weitin, Thomas: „Volldigitalisiertes Textkorpus. Der Deutsche Novellenschatz. Hrsg. von Paul Heyse und Hermann Kurz. Darmstadt/Konstanz, 2016. URL: http://www.deutschestextarchiv.de/sammlungen/novellenschatz.</note>
          </notesStmt>
          <sourceDesc>
-            <bibl type="DM">Ganghofer, Ludwig: Der Herrgottschnitzer von Amm. Augsburg, 1887.</bibl>
+            <bibl type="DM">Ganghofer, Ludwig: Der Herrgottschnitzer von Ammergau. Augsburg, 1887.</bibl>
             <biblFull>
                <titleStmt>
-                  <title level="a" type="main">Der Herrgottschnitzer von Amm</title>
+                  <title level="a" type="main">Der Herrgottschnitzer von Ammergau</title>
                   <author><persName ref="http://d-nb.info/gnd/118537490"><surname>Ganghofer</surname><forename>Ludwig</forename></persName></author>
                </titleStmt>
                <editionStmt>
