@@ -58,19 +58,17 @@
                </address>
             </publisher>
             <pubPlace>Berlin</pubPlace>
-            <date type="publication">2023-09-13T11:44:21Z</date>
+            <date type="publication">2023-09-13T14:13:00Z</date>
             <availability><licence target="https://creativecommons.org/licenses/by-sa/4.0/"><p>Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)</p></licence></availability>
          </publicationStmt>
          <notesStmt>
             <note>Im Deutschen Textarchiv (DTA) wurde bereits die Vorgängersammlung „Der Deutsche Novellenschatz“ (24 Bände, 1871-1876) veröffentlicht. Cf. Weitin, Thomas: „Volldigitalisiertes Textkorpus. Der Deutsche Novellenschatz. Hrsg. von Paul Heyse und Hermann Kurz. Darmstadt/Konstanz, 2016. URL: http://www.deutschestextarchiv.de/sammlungen/novellenschatz.</note>
          </notesStmt>
          <sourceDesc>
-            <bibl type="DM">Godin: Eine schwarze Kugel, 1886.</bibl>
+            <bibl type="DM">Godin, A.: Eine schwarze Kugel. Leipzig, 1886.</bibl>
             <biblFull>
                <titleStmt>
                   <title level="a" type="main">Eine schwarze Kugel</title>
-                  <title level="m" type="sub">[...]</title>
-                  <title level="m" type="volume"/>
                   <author><persName ref="http://d-nb.info/gnd/115341080"><surname>Godin</surname><forename>A.</forename></persName></author>
                </titleStmt>
                <editionStmt>
@@ -85,28 +83,11 @@
                </publicationStmt>
                <seriesStmt><title level="m" type="main">Neuer Deutscher Novellenschatz</title><biblScope unit="volume">14</biblScope><biblScope unit="pages">109-171</biblScope></seriesStmt>
             </biblFull>
-            <msDesc>
-               <msIdentifier>
-                  <repository/>
-                  <idno>
-                     <idno type="URLCatalogue"/><idno type="shelfmark"/>
-                     <idno type="URLCatalogue"/><idno type="shelfmark"/>
-                  </idno>
-               </msIdentifier>
-               <physDesc>
-                  <typeDesc>
-                     <p/>
-                  </typeDesc>
-               </physDesc>
-            </msDesc>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
          <p>Dieses Werk wurde unter Berücksichtigung der <ref target="https://www.deutschestextarchiv.de/doku/richtlinien">DTA-Transkriptionsrichtlinien</ref> erstellt.</p>
          <p>Der Text ist kodiert nach <ref target="https://www.deutschestextarchiv.de/doku/basisformat">DTA-Basisformat (DTABf)</ref>.</p>
-         <editorialDecl>
-            <p/>
-         </editorialDecl>
          <tagsDecl/>
       </encodingDesc>
       <profileDesc>
@@ -117,7 +98,7 @@
          <textClass>
             <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#dwds1main">Belletristik</classCode>
             <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#dwds1sub">Novelle</classCode>
-            <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#collections">ndns</classCode>
+            <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#collections">nschatz_deu</classCode>
          </textClass>
       </profileDesc>
    </teiHeader>
